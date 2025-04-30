@@ -5,7 +5,7 @@
 
 🎓 **Education**  
 **Bachelor of Applied Sciences (Honours), Mechatronics Engineering**  
-University of Waterloo | Sep 2018 – Jun 2023 Resume_final_data_engineer.pdf](file-service://file-BQWiQ7B4gp6fBAaa1MgBAb)
+University of Waterloo | Sep 2018 – Jun 2023 
 
 ---
 
@@ -20,22 +20,13 @@ University of Waterloo | Sep 2018 – Jun 2023 Resume_final_data_engineer.pdf](f
 
 ---
 
-💻 **Tech Stack**  
-
----
-
-💻 **Tech Stack**
-
-
----
-
 💻 **Tech Stack**
 
 <img src="https://cdn.simpleicons.org/python"       width="20" height="20" alt="Python" />       Python  
 <img src="https://cdn.simpleicons.org/jupyter"      width="20" height="20" alt="Jupyter" />      Jupyter  
 <img src="https://cdn.simpleicons.org/postgresql"   width="20" height="20" alt="PostgreSQL" />   PostgreSQL  
 <img src="https://cdn.simpleicons.org/pandas"       width="20" height="20" alt="Pandas" />       Pandas  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-spark.svg" width="20" height="20" alt="Apache Spark" /> Apache Spark
+<img src="https://cdn.simpleicons.org/apache-spark" width="20" height="20" alt="Apache Spark" /> Apache Spark  
 <img src="https://cdn.simpleicons.org/databricks"   width="20" height="20" alt="Databricks" />   Databricks  
 
 <img src="https://cdn.simpleicons.org/microsoftpowerbi" width="20" height="20" alt="Power BI" />   Power BI  
@@ -57,6 +48,7 @@ University of Waterloo | Sep 2018 – Jun 2023 Resume_final_data_engineer.pdf](f
 <img src="https://cdn.simpleicons.org/flask"          width="20" height="20" alt="Flask" />       Flask  
 <img src="https://cdn.simpleicons.org/django"         width="20" height="20" alt="Django" />      Django  
 <img src="https://cdn.simpleicons.org/jira"           width="20" height="20" alt="Jira" />        Jira  
+
 ---
 
 📫 **Get in touch**  
