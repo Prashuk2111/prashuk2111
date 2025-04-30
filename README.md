@@ -5,14 +5,15 @@
 
 🎓 **Education**  
 **Bachelor of Applied Sciences (Honours), Mechatronics Engineering**  
-University of Waterloo | Sep 2018 – Jun 2023 
+University of Waterloo | Sep 2018 – Jun 2023  
+Relevant Courses: Data Structures & Algorithms; Foundational AI & Deep Learning; Computational Intelligence; Algorithm Design & Analysis; Object-Oriented Programming; Autonomous Mobile Robots & Real-Time Operating Systems.
 
 ---
 
 🔭 **Current Projects**  
-- **DataSyncCompare** – ETL pipeline: load data into PostgreSQL, diff old vs. new versions, generate analytical reports  
+- **DataSyncCompare** – ETL pipeline: ingest into PostgreSQL, compare old vs. new data versions, generate analytical reports  
 - **Driver License Verification** – image extraction, barcode scanning & selfie-to-ID matching  
-- **LinkedIn Scraper** – Google-powered extraction of employees’ LinkedIn URLs  
+- **LinkedIn Scraper** – Google-powered extraction of prominent employees’ LinkedIn URLs  
 - **Hospital Dashboards**  
   - Grafana → [hospital-data-grafana-presentation-showcase](https://github.com/Prashuk2111/hospital-data-grafana-presentation-showcase)  
   - Power BI → [hospital-performance-powerbi-presentation-showcase](https://github.com/Prashuk2111/hospital-performance-powerbi-presentation-showcase)  
@@ -20,34 +21,25 @@ University of Waterloo | Sep 2018 – Jun 2023
 
 ---
 
-💻 **Tech Stack**
+⚡️ **Skills & Tools**  
 
-<img src="https://cdn.simpleicons.org/python"       width="20" height="20" alt="Python" />       Python  
-<img src="https://cdn.simpleicons.org/jupyter"      width="20" height="20" alt="Jupyter" />      Jupyter  
-<img src="https://cdn.simpleicons.org/postgresql"   width="20" height="20" alt="PostgreSQL" />   PostgreSQL  
-<img src="https://cdn.simpleicons.org/pandas"       width="20" height="20" alt="Pandas" />       Pandas  
-<img src="https://cdn.simpleicons.org/apache-spark" width="20" height="20" alt="Apache Spark" /> Apache Spark  
-<img src="https://cdn.simpleicons.org/databricks"   width="20" height="20" alt="Databricks" />   Databricks  
+**ETL & Data Pipelines:**  
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&style=flat-square) ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-–?logo=azure-data-factory&style=flat-square) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-–?logo=aws-lambda&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-–?logo=postgresql&style=flat-square)  
 
-<img src="https://cdn.simpleicons.org/microsoftpowerbi" width="20" height="20" alt="Power BI" />   Power BI  
-<img src="https://cdn.simpleicons.org/tableau"         width="20" height="20" alt="Tableau" />    Tableau  
-<img src="https://cdn.simpleicons.org/grafana"         width="20" height="20" alt="Grafana" />    Grafana  
+**Programming & Databases:**  
+![C++](https://img.shields.io/badge/C%2B%2B-–?logo=c%2B%2B&style=flat-square) ![Java](https://img.shields.io/badge/Java-–?logo=java&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-–?logo=javascript&style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-–?logo=mysql&style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-–?logo=mongodb&style=flat-square)  
 
-<img src="https://cdn.simpleicons.org/amazonaws"      width="20" height="20" alt="AWS" />        AWS  
-<img src="https://cdn.simpleicons.org/microsoftazure" width="20" height="20" alt="Azure" />      Azure  
-<img src="https://cdn.simpleicons.org/docker"         width="20" height="20" alt="Docker" />     Docker  
-<img src="https://cdn.simpleicons.org/kubernetes"     width="20" height="20" alt="Kubernetes" /> Kubernetes  
+**Big Data & Analytics:**  
+![Pandas](https://img.shields.io/badge/Pandas-–?logo=pandas&style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-–?logo=apache-spark&style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-–?logo=databricks&style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-–?logo=microsoft-power-bi&style=flat-square)  
 
-<img src="https://cdn.simpleicons.org/java"           width="20" height="20" alt="Java" />       Java  
-<img src="https://cdn.simpleicons.org/javascript"     width="20" height="20" alt="JavaScript" /> JavaScript  
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-–?logo=amazonaws&style=flat-square) ![Azure](https://img.shields.io/badge/Azure-–?logo=microsoftazure&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-–?logo=docker&style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-–?logo=kubernetes&style=flat-square) ![Git](https://img.shields.io/badge/Git-–?logo=git&style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-–?logo=github&style=flat-square) ![Bitbucket](https://img.shields.io/badge/Bitbucket-–?logo=bitbucket&style=flat-square)  
 
-<img src="https://cdn.simpleicons.org/scikitlearn"    width="20" height="20" alt="scikit-learn" /> scikit-learn  
-<img src="https://cdn.simpleicons.org/tensorflow"     width="20" height="20" alt="TensorFlow" />  TensorFlow  
-<img src="https://cdn.simpleicons.org/pytorch"        width="20" height="20" alt="PyTorch" />     PyTorch  
+**Machine Learning & AI:**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-–?logo=scikit-learn&style=flat-square) ![NLTK](https://img.shields.io/badge/NLTK-–?logo=nltk&style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-–?logo=tensorflow&style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-–?logo=pytorch&style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-–?logo=scipy&style=flat-square)  
 
-<img src="https://cdn.simpleicons.org/flask"          width="20" height="20" alt="Flask" />       Flask  
-<img src="https://cdn.simpleicons.org/django"         width="20" height="20" alt="Django" />      Django  
-<img src="https://cdn.simpleicons.org/jira"           width="20" height="20" alt="Jira" />        Jira  
+**Frameworks & Project Management:**  
+![Flask](https://img.shields.io/badge/Flask-–?logo=flask&style=flat-square) ![Django](https://img.shields.io/badge/Django-–?logo=django&style=flat-square) ![Jira](https://img.shields.io/badge/Jira-–?logo=jira&style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium-–?logo=selenium&style=flat-square)  
 
 ---
 
