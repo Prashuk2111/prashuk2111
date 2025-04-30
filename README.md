@@ -26,28 +26,48 @@ University of Waterloo | Sep 2018 – Jun 2023 Resume_final_data_engineer.pdf](f
 
 💻 **Tech Stack**
 
-![Python](https://cdn.simpleicons.org/python) Python  
-![Jupyter](https://cdn.simpleicons.org/jupyter) Jupyter  
-![PostgreSQL](https://cdn.simpleicons.org/postgresql) PostgreSQL  
-![Pandas](https://cdn.simpleicons.org/pandas) Pandas  
-![Apache Spark](https://cdn.simpleicons.org/apache-spark) Apache Spark  
-![Databricks](https://cdn.simpleicons.org/databricks) Databricks  
-![Power BI](https://cdn.simpleicons.org/microsoftpowerbi) Power BI  
-![Tableau](https://cdn.simpleicons.org/tableau) Tableau  
-![Grafana](https://cdn.simpleicons.org/grafana) Grafana  
-![AWS](https://cdn.simpleicons.org/amazonaws) AWS  
-![Azure](https://cdn.simpleicons.org/microsoftazure) Azure  
-![Docker](https://cdn.simpleicons.org/docker) Docker  
-![Kubernetes](https://cdn.simpleicons.org/kubernetes) Kubernetes  
-![Java](https://cdn.simpleicons.org/java) Java  
-![JavaScript](https://cdn.simpleicons.org/javascript) JavaScript  
-![scikit-learn](https://cdn.simpleicons.org/scikitlearn) scikit-learn  
-![TensorFlow](https://cdn.simpleicons.org/tensorflow) TensorFlow  
-![PyTorch](https://cdn.simpleicons.org/pytorch) PyTorch  
-![Flask](https://cdn.simpleicons.org/flask) Flask  
-![Django](https://cdn.simpleicons.org/django) Django  
-![Jira](https://cdn.simpleicons.org/jira) Jira  
+**ETL & Data Pipelines**  
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&style=flat-square)  
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-–?logo=microsoftazure&style=flat-square)  
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-–?logo=awslambda&style=flat-square)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-–?logo=postgresql&style=flat-square)  
 
+**Programming & Databases**  
+![C++](https://img.shields.io/badge/C%2B%2B-–?logo=c%2B%2B&style=flat-square)  
+![Java](https://img.shields.io/badge/Java-–?logo=java&style=flat-square)  
+![JavaScript](https://img.shields.io/badge/JavaScript-–?logo=javascript&style=flat-square)  
+![MySQL](https://img.shields.io/badge/MySQL-–?logo=mysql&style=flat-square)  
+![MongoDB](https://img.shields.io/badge/MongoDB-–?logo=mongodb&style=flat-square)  
+
+**Big Data & Analytics**  
+![Pandas](https://img.shields.io/badge/Pandas-–?logo=pandas&style=flat-square)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-–?logo=apache-spark&style=flat-square)  
+![Databricks](https://img.shields.io/badge/Databricks-–?logo=databricks&style=flat-square)  
+![Power BI](https://img.shields.io/badge/Power_BI-–?logo=microsoft-power-bi&style=flat-square)  
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-–?logo=amazonaws&style=flat-square)  
+![Azure](https://img.shields.io/badge/Azure-–?logo=microsoftazure&style=flat-square)  
+![Docker](https://img.shields.io/badge/Docker-–?logo=docker&style=flat-square)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-–?logo=kubernetes&style=flat-square)  
+![Git](https://img.shields.io/badge/Git-–?logo=git&style=flat-square)  
+![GitHub](https://img.shields.io/badge/GitHub-–?logo=github&style=flat-square)  
+![Bitbucket](https://img.shields.io/badge/Bitbucket-–?logo=bitbucket&style=flat-square)  
+
+**Machine Learning & AI**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-–?logo=scikit-learn&style=flat-square)  
+![NLTK](https://img.shields.io/badge/NLTK-–?logo=nltk&style=flat-square)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-–?logo=tensorflow&style=flat-square)  
+![PyTorch](https://img.shields.io/badge/PyTorch-–?logo=pytorch&style=flat-square)  
+![SciPy](https://img.shields.io/badge/SciPy-–?logo=scipy&style=flat-square)  
+
+**Frameworks & Project Management**  
+![Flask](https://img.shields.io/badge/Flask-–?logo=flask&style=flat-square)  
+![Django](https://img.shields.io/badge/Django-–?logo=django&style=flat-square)  
+![Jira](https://img.shields.io/badge/Jira-–?logo=jira&style=flat-square)  
+![Selenium](https://img.shields.io/badge/Selenium-–?logo=selenium&style=flat-square)
+
+---
 ---
 
 📫 **Get in touch**  
