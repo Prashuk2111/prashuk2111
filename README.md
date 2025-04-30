@@ -22,34 +22,31 @@ University of Waterloo | Sep 2018 – Jun 2023 Resume_final_data_engineer.pdf](f
 
 💻 **Tech Stack**  
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/python"            alt="Python"         width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/jupyter"           alt="Jupyter"        width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/postgresql"        alt="PostgreSQL"     width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/pandas"            alt="Pandas"         width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/apache-spark"      alt="Apache Spark"   width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/databricks"        alt="Databricks"     width="40" height="40"/>
+---
 
-  <img src="https://cdn.simpleicons.org/microsoftpowerbi"  alt="Power BI"       width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/tableau"           alt="Tableau"        width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/grafana"           alt="Grafana"        width="40" height="40"/>
+💻 **Tech Stack**
 
-  <img src="https://cdn.simpleicons.org/amazonaws"         alt="AWS"            width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure"    alt="Azure"          width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/docker"            alt="Docker"         width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/kubernetes"        alt="Kubernetes"     width="40" height="40"/>
-
-  <img src="https://cdn.simpleicons.org/java"              alt="Java"           width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript"        alt="JavaScript"     width="40" height="40"/>
-
-  <img src="https://cdn.simpleicons.org/scikitlearn"       alt="scikit-learn"    width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/tensorflow"        alt="TensorFlow"     width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/pytorch"           alt="PyTorch"        width="40" height="40"/>
-
-  <img src="https://cdn.simpleicons.org/flask"             alt="Flask"          width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/django"            alt="Django"         width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/jira"              alt="Jira"           width="40" height="40"/>
-</div>
+![Python](https://cdn.simpleicons.org/python) Python  
+![Jupyter](https://cdn.simpleicons.org/jupyter) Jupyter  
+![PostgreSQL](https://cdn.simpleicons.org/postgresql) PostgreSQL  
+![Pandas](https://cdn.simpleicons.org/pandas) Pandas  
+![Apache Spark](https://cdn.simpleicons.org/apache-spark) Apache Spark  
+![Databricks](https://cdn.simpleicons.org/databricks) Databricks  
+![Power BI](https://cdn.simpleicons.org/microsoftpowerbi) Power BI  
+![Tableau](https://cdn.simpleicons.org/tableau) Tableau  
+![Grafana](https://cdn.simpleicons.org/grafana) Grafana  
+![AWS](https://cdn.simpleicons.org/amazonaws) AWS  
+![Azure](https://cdn.simpleicons.org/microsoftazure) Azure  
+![Docker](https://cdn.simpleicons.org/docker) Docker  
+![Kubernetes](https://cdn.simpleicons.org/kubernetes) Kubernetes  
+![Java](https://cdn.simpleicons.org/java) Java  
+![JavaScript](https://cdn.simpleicons.org/javascript) JavaScript  
+![scikit-learn](https://cdn.simpleicons.org/scikitlearn) scikit-learn  
+![TensorFlow](https://cdn.simpleicons.org/tensorflow) TensorFlow  
+![PyTorch](https://cdn.simpleicons.org/pytorch) PyTorch  
+![Flask](https://cdn.simpleicons.org/flask) Flask  
+![Django](https://cdn.simpleicons.org/django) Django  
+![Jira](https://cdn.simpleicons.org/jira) Jira  
 
 ---
 
