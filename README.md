@@ -35,7 +35,7 @@ University of Waterloo | Sep 2018 – Jun 2023 Resume_final_data_engineer.pdf](f
 <img src="https://cdn.simpleicons.org/jupyter"      width="20" height="20" alt="Jupyter" />      Jupyter  
 <img src="https://cdn.simpleicons.org/postgresql"   width="20" height="20" alt="PostgreSQL" />   PostgreSQL  
 <img src="https://cdn.simpleicons.org/pandas"       width="20" height="20" alt="Pandas" />       Pandas  
-<img src="https://cdn.simpleicons.org/apache-spark" width="20" height="20" alt="Apache Spark" /> Apache Spark  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-spark.svg" width="20" height="20" alt="Apache Spark" /> Apache Spark
 <img src="https://cdn.simpleicons.org/databricks"   width="20" height="20" alt="Databricks" />   Databricks  
 
 <img src="https://cdn.simpleicons.org/microsoftpowerbi" width="20" height="20" alt="Power BI" />   Power BI  
