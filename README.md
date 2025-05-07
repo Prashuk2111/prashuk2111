@@ -13,7 +13,7 @@ Relevant Courses: Data Structures & Algorithms; Foundational AI & Deep Learning;
 🔭 **Current Projects**  
 - **DataSyncCompare** – ETL pipeline: ingest into PostgreSQL, compare old vs. new data versions, generate analytical reports  
 - **[Driver License Verification](https://github.com/Prashuk2111/US-Driver-License-Verification-project)** – image extraction, barcode scanning & selfie-to-ID matching  
-- **LinkedIn Scraper** – Google-powered extraction of prominent employees’ LinkedIn URLs  
+- **[LinkedIn Scraper](https://github.com/Prashuk2111/LinkedIn-Executive-Scraper)** – Google-powered extraction of prominent employees’ LinkedIn URLs  
 - **Hospital Dashboards**  
   - Grafana → [hospital-data-grafana-presentation-showcase](https://github.com/Prashuk2111/Grafana_Hospital_Dashboards)  
   - Power BI → [hospital-performance-powerbi-presentation-showcase](https://github.com/Prashuk2111/PowerBI_Hospital_Dashboards)  
